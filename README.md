@@ -23,11 +23,16 @@ Conmutación y Enrutamiento.
 
 1. [Java](https://www.oracle.com/java/)
 2. [Spring](https://spring.io/)
-2. [Maven](https://maven.apache.org/)
-1. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-3. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-5. [Bootstrap](https://getbootstrap.com//)
+3. [Maven](https://maven.apache.org/)
+4. [OracleSQL](https://www.oracle.com)
+5. [MySQL](https://www.mysql.com/)
+6. [Sqlite](https://www.sqlite.org/index.html)
+7. [H2Database](https://www.h2database.com/html/main.html)
+8. [MyBatis](https://mybatis.org/mybatis-3/es/)
+9. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+10. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+11. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+12. [Bootstrap](https://getbootstrap.com//)
  
 ## Installation
 
