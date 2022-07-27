@@ -27,8 +27,7 @@ Conmutación y Enrutamiento.
 1. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 3. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-5. [Font Awesome](https://fontawesome.com/)
-6. [Bootstrap](https://getbootstrap.com//)
+5. [Bootstrap](https://getbootstrap.com//)
  
 ## Installation
 
