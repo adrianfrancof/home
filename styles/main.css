@@ -131,5 +131,5 @@ p {
 
 .icon:hover {
   cursor: pointer;
-  background-color: rgb(173, 170, 170);
+  background-color: rgb(173, 170, 170,0.25);
 }
