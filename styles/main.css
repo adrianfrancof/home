@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Source+Sans+Pro:wght@900&display=swap");
 
 *{
-  
+  margin: 0;
 }
 
 body {
@@ -12,13 +12,15 @@ body {
   height: 100vh;
   overflow: hidden;
   position: relative;
-  background: rgb(0, 255, 255);
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
 }
 
 .main-title {
-  color: black;
+  color: rgb(173, 170, 170);
   font-size: 9vmin;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
@@ -27,7 +29,7 @@ body {
 }
 
 .second-title {
-  color: black;
+  color: rgb(173, 170, 170);
   font-size: 4vmin;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
@@ -39,7 +41,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  fill: rgba(134, 253, 253, 0.76);
+  fill: rgba(34, 50, 121, 0.15);
   width: 50vmax;
   z-index: -1;
   animation: move 10s ease-in-out infinite;
@@ -122,15 +124,12 @@ p {
 }
 
 .icon {
-  color: black;
+  color: rgb(173, 170, 170);
   padding: 15px;
   border-radius: 50%;
 }
 
 .icon:hover {
   cursor: pointer;
-  background-color: rgb(47, 192, 192);
+  background-color: rgb(173, 170, 170);
 }
-
-
-
