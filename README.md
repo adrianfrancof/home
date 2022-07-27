@@ -4,6 +4,7 @@ Hola, bienvenido soy Profesional TI Full Stack Java Developer, me he desempeñad
 
 Java, Java EE.
 Spring, Spring Boot.
+Hibernate, JPA.
 API Rest.
 Maven.
 Desarrollo de aplicaciones web.
@@ -24,15 +25,16 @@ Conmutación y Enrutamiento.
 1. [Java](https://www.oracle.com/java/)
 2. [Spring](https://spring.io/)
 3. [Maven](https://maven.apache.org/)
-4. [OracleSQL](https://www.oracle.com)
-5. [MySQL](https://www.mysql.com/)
-6. [Sqlite](https://www.sqlite.org/index.html)
-7. [H2Database](https://www.h2database.com/html/main.html)
-8. [MyBatis](https://mybatis.org/mybatis-3/es/)
-9. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-10. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-11. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-12. [Bootstrap](https://getbootstrap.com//)
+4. [Hibernate](https://hibernate.org/)
+5. [OracleSQL](https://www.oracle.com)
+6. [MySQL](https://www.mysql.com/)
+7. [Sqlite](https://www.sqlite.org/index.html)
+8. [H2Database](https://www.h2database.com/html/main.html)
+9. [MyBatis](https://mybatis.org/mybatis-3/es/)
+10. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+11. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+12. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+13. [Bootstrap](https://getbootstrap.com//)
  
 ## Installation
 
