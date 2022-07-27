@@ -23,6 +23,8 @@ Conmutación y Enrutamiento.
 
 1. [Java](https://www.oracle.com/java/)
 2. [Spring](https://spring.io/)
+2. [Maven](https://maven.apache.org/)
+1. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 3. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 5. [Font Awesome](https://fontawesome.com/)
