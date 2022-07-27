@@ -30,7 +30,7 @@ Conmutación y Enrutamiento.
  
 ## Installation
 
-1. `git clone https://github.com/adrianedutecno/landing.git`
+1. `git clone https://github.com/adrianfrancof/home.git`
 
 2. Open `index.html`. That's it!
 
