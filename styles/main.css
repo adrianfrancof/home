@@ -1,5 +1,10 @@
 /* @import url('https://fonts.googleapis.com/css?family=Poppins:700'); */
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Source+Sans+Pro:wght@900&display=swap");
+
+*{
+  
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -7,15 +12,14 @@ body {
   height: 100vh;
   overflow: hidden;
   position: relative;
-  background: aqua;
-  
+  background: rgb(0, 255, 255);
   display: flex;
   align-items: center;
 }
 
 .main-title {
   color: black;
-  font-size: 10vmin;
+  font-size: 9vmin;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
@@ -27,15 +31,15 @@ body {
   font-size: 4vmin;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
-   position: relative;
-   top: -10px;
+  position: relative;
+  top: -10px;
 }
 
 .blob {
   position: absolute;
   top: 0;
   left: 0;
-  fill: rgb(47, 192, 192);
+  fill: rgba(134, 253, 253, 0.76);
   width: 50vmax;
   z-index: -1;
   animation: move 10s ease-in-out infinite;
@@ -45,12 +49,14 @@ body {
 .contacts li {
    display: inline-block;
    padding-left: 0px;
+   padding: 0px;
 }
 
 .contacts li a {
    color: #bdbdbd;
    text-decoration: none;
    font-family: 'Poppins', sans-serif;
+   padding-left: 0px;
 }
 
 .contacts li a:hover {
@@ -68,16 +74,16 @@ body {
 
 @media screen and (max-width: 580px) {
    .main-title {
-      font-size: 6vmin;
+      font-size: 8vmin;
    }
    .second-title {
       top: -20px;
    }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 280px) {
    .main-title {
-      font-size: 6vmin;
+      font-size: 10vmin;
       padding: 20px;
    }
    .second-title {
