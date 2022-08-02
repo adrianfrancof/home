@@ -16,6 +16,7 @@ body {
   background-size: cover;
   display: flex;
   align-items: center;
+  text-align: center;
 }
 
 .main-title {
