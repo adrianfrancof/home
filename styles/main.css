@@ -12,8 +12,11 @@ body {
   overflow: hidden;
   position: relative;
   background-image: url("../img/background.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
+  background-color: rgb(2, 2, 29);
+  background-position: center center;
   display: flex;
   align-items: center;
   text-align: center;
